@@ -1,0 +1,44 @@
+[
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_id": "defection",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_id": "infinitestrife",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_id": "worldender",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "pentiment",
+      "arcanaeden"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "pentiment",
+      "arcanaeden"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "fragment0",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

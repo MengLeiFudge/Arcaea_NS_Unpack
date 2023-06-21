@@ -4,7 +4,10 @@
 			"requiredPack": "shiawase",
 			"storyType": "nvl",
 			"clearSongId": "paradise",
-			"clearCharaId": -1
+			"clearCharaId": -1,
+			"charIcon1": 2,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/4-1.jpg"
 		},
 		{
 			"minor": 2,
@@ -12,7 +15,9 @@
 			"requiredMinor": 1,
 			"storyType": "nvl",
 			"clearSongId": "partyvinyl",
-			"clearCharaId": 2
+			"clearCharaId": 2,
+			"charIcon1": 2,
+			"charIcon2": -1
 		},
 		{
 			"minor": 3,
@@ -20,7 +25,9 @@
 			"requiredMinor": 2,
 			"storyType": "nvl",
 			"clearSongId": "flashback",
-			"clearCharaId": 2
+			"clearCharaId": 2,
+			"charIcon1": 2,
+			"charIcon2": -1
 		},
 		{
 			"minor": 4,
@@ -28,7 +35,9 @@
 			"requiredMinor": 3,
 			"storyType": "nvl",
 			"clearSongId": "paradise",
-			"clearCharaId": 2
+			"clearCharaId": 2,
+			"charIcon1": 2,
+			"charIcon2": -1
 		},
 		{
 			"minor": 5,
@@ -36,7 +45,9 @@
 			"requiredMinor": 4,
 			"storyType": "nvl",
 			"clearSongId": "flyburg",
-			"clearCharaId": -1
+			"clearCharaId": -1,
+			"charIcon1": 2,
+			"charIcon2": -1
 		},
 		{
 			"minor": 6,
@@ -44,7 +55,9 @@
 			"requiredMinor": 5,
 			"storyType": "nvl",
 			"clearSongId": "nirvluce",
-			"clearCharaId": 2
+			"clearCharaId": 2,
+			"charIcon1": 2,
+			"charIcon2": -1
 		},
 		{
 			"minor": 7,
@@ -52,7 +65,10 @@
 			"requiredMinor": 6,
 			"storyType": "nvl",
 			"clearSongId": "diode",
-			"clearCharaId": 2
+			"clearCharaId": 2,
+			"charIcon1": 2,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/4-7.jpg"
 		},
 		{
 			"minor": 8,
@@ -60,6 +76,8 @@
 			"requiredMinor": 7,
 			"storyType": "nvl",
 			"clearSongId": "gloryroad",
-			"clearCharaId": 2
+			"clearCharaId": 2,
+			"charIcon1": 2,
+			"charIcon2": -1
 		}]
 }

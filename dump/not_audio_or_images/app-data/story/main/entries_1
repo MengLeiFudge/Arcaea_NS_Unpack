@@ -4,7 +4,10 @@
 			"requiredPack": "core",
 			"storyType": "nvl",
 			"clearSongId": "lumia",
-			"clearCharaId": 0
+			"clearCharaId": 0,
+			"charIcon1": 0,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/1-1.jpg"
 		},
 		{
 			"minor": 2,
@@ -12,7 +15,9 @@
 			"requiredMinor": 1,
 			"storyType": "nvl",
 			"clearSongId": "memoryfactory",
-			"clearCharaId": 0
+			"clearCharaId": 0,
+			"charIcon1": 0,
+			"charIcon2": -1
 		},
 		{
 			"minor": 3,
@@ -20,14 +25,18 @@
 			"requiredMinor": 2,
 			"storyType": "nvl",
 			"clearSongId": "pragmatism",
-			"clearCharaId": 0
+			"clearCharaId": 0,
+			"charIcon1": 0,
+			"charIcon2": -1
 		},
 		{
 			"minor": 4,
 			"requiredPack": "rei",
 			"storyType": "nvl",
 			"clearSongId": "mazenine",
-			"clearCharaId": 0
+			"clearCharaId": 0,
+			"charIcon1": 0,
+			"charIcon2": -1
 		},
 		{
 			"minor": 5,
@@ -35,7 +44,9 @@
 			"requiredMinor": 4,
 			"storyType": "nvl",
 			"clearSongId": "halcyon",
-			"clearCharaId": 0
+			"clearCharaId": 0,
+			"charIcon1": 0,
+			"charIcon2": -1
 		},
 		{
 			"minor": 6,
@@ -44,7 +55,10 @@
 			"storyType": "nvl",
 			"clearSongId": "etherstrike",
 			"alternateSuffix": "ZR",
-			"clearCharaId": 14
+			"clearCharaId": 14,
+			"charIcon1": 0,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/1-ZR.jpg"
 		},
 		{
 			"minor": 7,
@@ -60,7 +74,10 @@
 			"requiredMinor": 7,
 			"storyType": "nvl",
 			"clearSongId": "themessage",
-			"clearCharaId": 0
+			"clearCharaId": 0,
+			"charIcon1": 0,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/1-8.jpg"
 		},
 		{
 			"minor": 9,

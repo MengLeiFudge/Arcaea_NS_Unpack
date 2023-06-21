@@ -1,0 +1,68 @@
+[
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "alice",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "fragment150",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "alice",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "character_alice_tenniel",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "observer",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "fragment150",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "observer",
+    "restrict_type": "pack_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "character_lagrange",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

@@ -52,5 +52,60 @@
     "id": "omatsuri",
     "type": "map",
     "primary_value": "omatsuri"
+  },
+  {
+    "id": "groovecoaster",
+    "type": "dlc",
+    "primary_value": "groovecoaster"
+  },
+  {
+    "id": "observer",
+    "type": "dlc",
+    "primary_value": "observer"
+  },
+  {
+    "id": "alice",
+    "type": "dlc",
+    "primary_value": "alice"
+  },
+  {
+    "id": "musedash",
+    "type": "dlc",
+    "primary_value": "musedash"
+  },
+  {
+    "id": "observer_append_2",
+    "type": "dlc",
+    "primary_value": "observer_append_2"
+  },
+  {
+    "id": "single_append_1",
+    "type": "dlc",
+    "primary_value": "single_append_1"
+  },
+  {
+    "id": "single_append_2",
+    "type": "dlc",
+    "primary_value": "single_append_2"
+  },
+  {
+    "id": "single_append_3",
+    "type": "dlc",
+    "primary_value": "single_append_3"
+  },
+  {
+    "id": "nijuusei_append_1",
+    "type": "dlc",
+    "primary_value": "nijuusei_append_1"
+  },
+  {
+    "id": "wacca",
+    "type": "dlc",
+    "primary_value": "wacca"
+  },
+  {
+    "id": "lanota",
+    "type": "dlc",
+    "primary_value": "lanota"
   }
 ]

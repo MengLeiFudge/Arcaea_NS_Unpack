@@ -1,0 +1,264 @@
+[
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "mahoroba",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "callmyname",
+      "dottodot",
+      "bethere",
+      "feelssoright",
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "callmyname",
+      "dottodot",
+      "bethere",
+      "feelssoright",
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "callmyname",
+      "dottodot",
+      "bethere",
+      "feelssoright",
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "callmyname",
+      "dottodot",
+      "bethere",
+      "feelssoright",
+      "phantasia",
+      "mahoroba"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "fragment200",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 35,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 10,
+    "reward_bundle": "init",
+    "restrict_id": "init",
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 20,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 30,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 41,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 51,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 61,
+    "reward_bundle": "core_colorful_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 71,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 82,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 92,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 102,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 112,
+    "reward_bundle": "core_colorful_5",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 123,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 133,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 123,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 112,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 102,
+    "reward_bundle": "core_colorful_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 92,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 82,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 71,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 61,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 51,
+    "reward_bundle": "core_colorful_5",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 41,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 30,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": "",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 20,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 10,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "core_colorful_10",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

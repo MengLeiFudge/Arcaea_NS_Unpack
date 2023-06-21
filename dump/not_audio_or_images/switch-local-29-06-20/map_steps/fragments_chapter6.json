@@ -1,0 +1,218 @@
+[
+  {
+    "capture": 3,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 7,
+    "reward_bundle": "",
+    "restrict_id": "core",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "dividedheart",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 15,
+    "reward_bundle": "",
+    "restrict_id": "yugamu",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 19,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 22,
+    "reward_bundle": "fragment250",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 26,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 30,
+    "reward_bundle": "",
+    "restrict_id": "rei",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 34,
+    "reward_bundle": "",
+    "restrict_id": "nijuusei",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 38,
+    "reward_bundle": "",
+    "restrict_id": "omatsuri",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 41,
+    "reward_bundle": "fragment250",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 45,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 49,
+    "reward_bundle": "",
+    "restrict_id": "zettai",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 53,
+    "reward_bundle": "",
+    "restrict_id": "finale",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 57,
+    "reward_bundle": "",
+    "restrict_id": "zettai",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 61,
+    "reward_bundle": "fragment250",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 64,
+    "reward_bundle": "",
+    "restrict_id": "prelude",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 68,
+    "reward_bundle": "",
+    "restrict_id": "omatsuri",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 72,
+    "reward_bundle": "",
+    "restrict_id": "nijuusei",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 76,
+    "reward_bundle": "",
+    "restrict_id": "rei",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 80,
+    "reward_bundle": "fragment250",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 83,
+    "reward_bundle": "",
+    "restrict_id": "mirai",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 87,
+    "reward_bundle": "",
+    "restrict_id": "shiawase",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 91,
+    "reward_bundle": "",
+    "restrict_id": "yugamu",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 95,
+    "reward_bundle": "",
+    "restrict_id": "dividedheart",
+    "restrict_type": "pack_id",
+    "step_type": [
+      "randomsong"
+    ]
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "fragment250",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

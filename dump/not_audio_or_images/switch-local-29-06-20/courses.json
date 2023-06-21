@@ -1,0 +1,449 @@
+[
+  {
+    "id": "4.0-dan-1",
+    "course_names": {
+      "en": "First Step in a New World",
+      "ja": "新世界への一歩",
+      "ko": "새로운 세계로의 첫걸음",
+      "zh-Hans": "新世界的第一步",
+      "zh-Hant": "新世界的第一步"
+    },
+    "dan_names": {
+      "en": "Phase 1"
+    },
+    "style": 1,
+    "songs": [
+      {
+        "id": "inkarusi1",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "snowwhite1",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "sakurafubuki1",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "purgatorium1",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [],
+    "reward_bundles": [
+      "fragment300",
+      "course_banner_1"
+    ],
+    "flag_as_hidden_when_requirements_not_met": false
+  },
+  {
+    "id": "4.0-dan-2",
+    "course_names": {
+      "en": "Swept up in a Heartbeat",
+      "ja": "駆け上がる心音",
+      "ko": "두근거림에 휩쓸리다",
+      "zh-Hans": "一次心跳的加速",
+      "zh-Hant": "一次心跳的加速"
+    },
+    "dan_names": {
+      "en": "Phase 2"
+    },
+    "style": 2,
+    "songs": [
+      {
+        "id": "vexaria2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "clotho2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "brandnewworld2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "oblivia2",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [],
+    "reward_bundles": [
+      "fragment400",
+      "course_banner_2"
+    ],
+    "flag_as_hidden_when_requirements_not_met": false
+  },
+  {
+    "id": "4.0-dan-3",
+    "course_names": {
+      "en": "Unceasing Spirit",
+      "ja": "崩折れない意地",
+      "ko": "지치지 않는 영혼",
+      "zh-Hans": "永不屈服的精神",
+      "zh-Hant": "永不屈服的精神"
+    },
+    "dan_names": {
+      "en": "Phase 3"
+    },
+    "style": 3,
+    "songs": [
+      {
+        "id": "suomi2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "grimheart2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "bookmaker2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "avril2",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [],
+    "reward_bundles": [
+      "fragment500",
+      "course_banner_3"
+    ],
+    "flag_as_hidden_when_requirements_not_met": false
+  },
+  {
+    "id": "4.0-dan-4",
+    "course_names": {
+      "en": "The Eternal Realm of Light",
+      "ja": "永久なる光の地",
+      "ko": "영원한 빛의 영역",
+      "zh-Hans": "光芒的永恒之地",
+      "zh-Hant": "光芒的永恆之地"
+    },
+    "dan_names": {
+      "en": "Phase 4"
+    },
+    "style": 4,
+    "songs": [
+      {
+        "id": "gekka2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "vividtheory2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "kanagawa2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "iconoclast2",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [],
+    "reward_bundles": [
+      "fragment600",
+      "course_banner_4"
+    ],
+    "flag_as_hidden_when_requirements_not_met": false
+  },
+  {
+    "id": "4.0-dan-5",
+    "course_names": {
+      "en": "The Brutality of Glass",
+      "ja": "集り苛む硝子片",
+      "ko": "유리의 잔혹성",
+      "zh-Hans": "玻璃之中的残酷",
+      "zh-Hant": "玻璃之中的殘酷"
+    },
+    "dan_names": {
+      "en": "Phase 5"
+    },
+    "style": 5,
+    "songs": [
+      {
+        "id": "faintlight2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "mahoroba2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "kyogenkigo2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "lethaeus2",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [],
+    "reward_bundles": [
+      "fragment700",
+      "course_banner_5"
+    ],
+    "flag_as_hidden_when_requirements_not_met": false
+  },
+  {
+    "id": "4.0-dan-6",
+    "course_names": {
+      "en": "In Grief and Great Delight",
+      "ja": "嘆きと幸福の硲",
+      "ko": "비탄과 큰 기쁨",
+      "zh-Hans": "沉浸于悲喜交加",
+      "zh-Hant": "沉浸於悲喜交加"
+    },
+    "dan_names": {
+      "en": "Phase 6"
+    },
+    "style": 6,
+    "songs": [
+      {
+        "id": "themessage2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "scarletcage2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "memoryforest2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "blacklotus2",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [],
+    "reward_bundles": [
+      "fragment800",
+      "course_banner_6"
+    ],
+    "flag_as_hidden_when_requirements_not_met": false
+  },
+  {
+    "id": "4.0-dan-7",
+    "course_names": {
+      "en": "On Fate's Approach",
+      "ja": "そして来る宿命",
+      "ko": "운명의 접근",
+      "zh-Hans": "在命运到来之际",
+      "zh-Hant": "在命運到來之際"
+    },
+    "dan_names": {
+      "en": "Phase 7"
+    },
+    "style": 7,
+    "songs": [
+      {
+        "id": "galaxyfriends2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "neokosmo2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "conflict2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "etherstrike2",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [],
+    "reward_bundles": [
+      "fragment900",
+      "course_banner_7"
+    ],
+    "flag_as_hidden_when_requirements_not_met": false
+  },
+  {
+    "id": "4.0-dan-8",
+    "course_names": {
+      "en": "The Disfigured Flow of Time",
+      "ja": "混沌する時空流",
+      "ko": "왜곡된 시간의 흐름",
+      "zh-Hans": "趋于混沌的时空",
+      "zh-Hant": "趨於混沌的時空"
+    },
+    "dan_names": {
+      "en": "Phase 8"
+    },
+    "style": 8,
+    "songs": [
+      {
+        "id": "corruption2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "sheriruth2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "valhallazero2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "metallicpunisher2",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [],
+    "reward_bundles": [
+      "fragment1000",
+      "course_banner_8"
+    ],
+    "flag_as_hidden_when_requirements_not_met": false
+  },
+  {
+    "id": "4.0-dan-9",
+    "course_names": {
+      "en": "Ego's Demise",
+      "ja": "崩れ落ちる自我",
+      "ko": "자아의 종말",
+      "zh-Hans": "分崩离析的自我",
+      "zh-Hant": "分崩離析的自我"
+    },
+    "dan_names": {
+      "en": "Phase 9"
+    },
+    "style": 9,
+    "songs": [
+      {
+        "id": "corpssansorganes2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "lightningscrew2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "gloryroad2",
+        "flag_as_hidden": false
+      },
+      {
+        "id": "axiumcrisis2",
+        "flag_as_hidden": false
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [
+      {
+        "type": "course",
+        "value": "4.0-dan-8"
+      }
+    ],
+    "reward_bundles": [
+      "fragment1000",
+      "core_generic_10",
+      "course_banner_9"
+    ],
+    "flag_as_hidden_when_requirements_not_met": true
+  },
+  {
+    "id": "4.0-dan-10",
+    "course_names": {
+      "en": "A Torrent of Light and Conflict",
+      "ja": "光と対立の氾流",
+      "ko": "빛과 갈등의 급류",
+      "zh-Hans": "光与对立的洪流",
+      "zh-Hant": "光與對立的洪流"
+    },
+    "dan_names": {
+      "en": "Phase 10"
+    },
+    "style": 10,
+    "songs": [
+      {
+        "id": "cyaegha2",
+        "flag_as_hidden": true
+      },
+      {
+        "id": "ringedgenesis2",
+        "flag_as_hidden": true
+      },
+      {
+        "id": "dantalion2",
+        "flag_as_hidden": true
+      },
+      {
+        "id": "saikyostronger2",
+        "flag_as_hidden": true
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [
+      {
+        "type": "course",
+        "value": "4.0-dan-9"
+      }
+    ],
+    "reward_bundles": [
+      "fragment1000",
+      "core_generic_10",
+      "course_banner_10"
+    ],
+    "flag_as_hidden_when_requirements_not_met": true
+  },
+  {
+    "id": "4.0-dan-11",
+    "course_names": {
+      "en": "Radiant Genesis",
+      "ja": "開闢の極光",
+      "ko": "찬란한 창세기",
+      "zh-Hans": "创世之曙光",
+      "zh-Hant": "創世之曙光"
+    },
+    "dan_names": {
+      "en": "Phase 11"
+    },
+    "style": 11,
+    "songs": [
+      {
+        "id": "infinitestrife3",
+        "flag_as_hidden": true
+      },
+      {
+        "id": "grievouslady2",
+        "flag_as_hidden": true
+      },
+      {
+        "id": "fractureray2",
+        "flag_as_hidden": true
+      },
+      {
+        "id": "tempestissimo3",
+        "flag_as_hidden": true
+      }
+    ],
+    "gauge_requirement": "default",
+    "requirements": [
+      {
+        "type": "course",
+        "value": "4.0-dan-10"
+      }
+    ],
+    "reward_bundles": [
+      "fragment2000",
+      "core_generic_20",
+      "course_banner_11"
+    ],
+    "flag_as_hidden_when_requirements_not_met": true
+  }
+]

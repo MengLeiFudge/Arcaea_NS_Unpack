@@ -1,0 +1,86 @@
+[
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "silentrush",
+      "nexttoyou",
+      "strongholds",
+      "memoryforest",
+      "singularity",
+      "cosmica",
+      "ascent",
+      "livefastdieyoung"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "core_binary_30",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_ids": [
+      "silentrush",
+      "nexttoyou",
+      "strongholds",
+      "memoryforest",
+      "singularity",
+      "cosmica",
+      "ascent",
+      "livefastdieyoung"
+    ],
+    "restrict_type": "song_id"
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 11,
+    "reward_bundle": "",
+    "restrict_id": "",
+    "restrict_type": ""
+  },
+  {
+    "capture": 0,
+    "reward_bundle": "core_binary_30",
+    "restrict_id": "",
+    "restrict_type": ""
+  }
+]

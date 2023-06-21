@@ -4,7 +4,10 @@
 			"requiredPack": "zettai",
 			"storyType": "nvl",
 			"clearSongId": "antithese",
-			"clearCharaId": -1
+			"clearCharaId": -1,
+			"charIcon1": 23,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/3-1.jpg"
 		},
 		{
 			"minor": 2,
@@ -12,7 +15,9 @@
 			"requiredMinor": 1,
 			"storyType": "nvl",
 			"clearSongId": "corruption",
-			"clearCharaId": -1
+			"clearCharaId": -1,
+			"charIcon1": 23,
+			"charIcon2": -1
 		},
 		{
 			"minor": 3,
@@ -21,7 +26,9 @@
 			"storyType": "vn",
 			"storyData": "zettai",
 			"clearSongId": "blackterritory",
-			"clearCharaId": 23
+			"clearCharaId": 23,
+			"charIcon1": 23,
+			"charIcon2": -1
 		},
 		{
 			"minor": 4,
@@ -29,7 +36,9 @@
 			"requiredMinor": 3,
 			"storyType": "nvl",
 			"clearSongId": "cyaegha",
-			"clearCharaId": 23
+			"clearCharaId": 23,
+			"charIcon1": 23,
+			"charIcon2": -1
 		},
 		{
 			"minor": 5,
@@ -38,7 +47,9 @@
 			"storyType": "nvl",
 			"clearSongId": "antithese",
 			"alternateSuffix": "0",
-			"clearCharaId": 23
+			"clearCharaId": 23,
+			"charIcon1": 23,
+			"charIcon2": -1
 		},
 		{
 			"minor": 6,
@@ -47,6 +58,8 @@
 			"storyType": "nvl",
 			"clearSongId": "viciousheroism",
 			"alternateSuffix": "5",
-			"clearCharaId": 23
+			"clearCharaId": 23,
+			"charIcon1": 23,
+			"charIcon2": -1
 		}]
 }

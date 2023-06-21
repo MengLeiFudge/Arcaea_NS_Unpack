@@ -4,7 +4,10 @@
 			"requiredPack": "core",
 			"storyType": "nvl",
 			"clearSongId": "viyella",
-			"clearCharaId": 1
+			"clearCharaId": 1,
+			"charIcon1": 1,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/2-1.jpg"
 		},
 		{
 			"minor": 2,
@@ -12,7 +15,9 @@
 			"requiredMinor": 1,
 			"storyType": "nvl",
 			"clearSongId": "essenceoftwilight",
-			"clearCharaId": 1
+			"clearCharaId": 1,
+			"charIcon1": 1,
+			"charIcon2": -1
 		},
 		{
 			"minor": 3,
@@ -20,14 +25,18 @@
 			"requiredMinor": 2,
 			"storyType": "nvl",
 			"clearSongId": "sheriruth",
-			"clearCharaId": 1
+			"clearCharaId": 1,
+			"charIcon1": 1,
+			"charIcon2": -1
 		},
 		{
 			"minor": 4,
 			"requiredPack": "yugamu",
 			"storyType": "nvl",
 			"clearSongId": "iconoclast",
-			"clearCharaId": 1
+			"clearCharaId": 1,
+			"charIcon1": 1,
+			"charIcon2": -1
 		},
 		{
 			"minor": 5,
@@ -35,7 +44,9 @@
 			"requiredMinor": 4,
 			"storyType": "nvl",
 			"clearSongId": "conflict",
-			"clearCharaId": 1
+			"clearCharaId": 1,
+			"charIcon1": 1,
+			"charIcon2": -1
 		},
 		{
 			"minor": 6,
@@ -44,7 +55,10 @@
 			"storyType": "nvl",
 			"clearSongId": "axiumcrisis",
 			"alternateSuffix": "D",
-			"clearCharaId": 6
+			"clearCharaId": 6,
+			"charIcon1": 1,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/2-D.jpg"
 		},
 		{
 			"minor": 7,
@@ -60,7 +74,10 @@
 			"requiredMinor": 7,
 			"storyType": "nvl",
 			"clearSongId": "soundwitch",
-			"clearCharaId": 1
+			"clearCharaId": 1,
+			"charIcon1": 1,
+			"charIcon2": -1,
+			"storyCgPath": "app-data/story/cg/2-8.jpg"
 		},
 		{
 			"minor": 9,
